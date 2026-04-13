@@ -18,7 +18,7 @@ Appbar
 ![Appbar](Appbar.png)
 
 Text
-![Text](Text.png)
+![Text](text.png)
 
 Container
 ![Container](Container.png)
