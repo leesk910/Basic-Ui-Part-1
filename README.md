@@ -24,7 +24,7 @@ Container
 ![Container](Container.png)
 
 Row & Column
-![Row & Column](row7column.png)
+![Row & Column](row&column.png)
 
 All Final Basic Style apply
 ![All Final Basic Style apply](final_all_set_ui.png)
